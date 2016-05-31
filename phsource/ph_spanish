@@ -47,7 +47,11 @@ phoneme u
   FMT(vowel/u_bck2)
 endphoneme
 
-
+phoneme oI
+  vowel starttype #o endtype #i
+  length 270
+  FMT(vwl_es/ooi3)
+endphoneme
 
 
 phoneme g
