@@ -151,14 +151,14 @@
      _) nh (A      n
 
 .group o
-        o          o
-        o (CK      O
-        o (r       O
-        o (Ch      o
-    Ar) o          O
-        oi         oI
-        oy (K      oI
-        oy (_      'oI
+	o	o
+	o (CK	o
+	o (r	o
+	o (Ch	o
+// 	Ar) o	o
+	oi	oI
+	oy (K	 oI
+	oy (_	'oI
         ou         ow
 
 .group p
@@ -269,15 +269,15 @@
         á          ''a
         é          ''E
         í          ''i
-        ó          ''O
+        ó          ''o
         ú          ''u
         ü          u
         ñ          n^
-        $          d'Olar
+        $          d'olar
 
-     _) - (_D      m'EnOs
+     _) - (_D      m'Enos
     A_) - (_D      _
     C_) - (_D      _
 
-        , (D       kOma
+        , (D       koma
 
