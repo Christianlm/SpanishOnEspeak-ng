@@ -78,7 +78,6 @@ _»	kom'iJ^as||dEr'EtSas
 ¬	n'ot
 ·	p'unto||m'edjo
 
-
 // numbers
 _0	T'ero
 _1	'uno
@@ -180,7 +179,6 @@ _0M1o	mil'Esim
 
 vi	bi	// not a Roman number
 
-// unstressed words
 // articles
 el           $u+
 los          $u+
@@ -213,6 +211,7 @@ vuestro   $u+
 vuestros  $u+
 vuestra   $u+
 vuestras  $u+
+
 // prepositions
 a            $u+     // at
 al           $u+
@@ -236,12 +235,9 @@ e         $u+       $only
 y            %i     // and
 o            $u+     // or
 u	$u+
-
-
 aunque       $u+     // although
 pero       $u+
 porque       $u+       // because
-
 que          $u+    // that
 cuando       $u+
 cuanto	$u+
@@ -320,49 +316,60 @@ Uds	ustedes		$text $capital $dot
 //	(/ h)   por||'ora
 
 // pronunciation exceptions
-// foreign words
-linux        $1
+ser	s'e@-* $only // it's not a abbrev
+
+// Proper Names and countries
+amsterdam	$3
+bardem	$2
+jerusalem	$4
 méxico       m'Exiko
 vietnam $2
-spanish      sp'aniS
-english ínglish      $text
-firefox	f'aIrfoks
-microsoft	m'aIkrosoft
-software	s'oftwer
-hardware h'ardwer
-skype	sk'aIp
-messenger m'esendZer
-live l'aIB
-facebook f'eIsbuk
-twitter	tw'iter
-twit	tw'it
-mozilla	moT'ila
-espeak	'isp'ik
-(e speak) 'isp'ik
-eloquence	'elokwens
-speech	sp'itS
-platform	pl'atfom
-voice	bois   $text
-windows	w'indows
+
+// foreign words
+
 android	'androId
 apple	'ap@l
-(i phone)	'aIfon
-iphone	'aIfon
-(i pod)	'aIpod
-ipod	'aIpod
-jaws	dZ'os
-window	w'indow
+copyright	k'opiRR2,aIt
+chrome	kr'owm
+curriculum	$2
+diem	d'i:em $only
+eloquence	'elokwens
+english ínglish      $text
+espeak	'isp'ik
 eyes	'aIs
+facebook f'eIsbuk
+firefox	f'aIrfoks
 free	fr'i
 google	g'ug@l
-chrome	kr'owm
-office	'ofis
-service	s'erBis
-power	p'awer
-thunderbird	t'anderbird
+hardware h'ardwer
+iphone	'aIfon
+ipod	'aIpod
+jaws	dZ'os
 jazz	dZ'as
+linux        $1
+live l'aIB
+messenger m'esendZer
+microsoft	m'aIkrosoft
+mozilla	moT'ila
+office	'ofis
+platform	pl'atfom
+power	p'awer
+service	s'erBis
+skype	sk'aIp
 snapshot	zn'apS,ot // _^_en
-curriculum	$2
+software	s'oftwer
+spanish      sp'aniS
+speech	sp'itS
+thunderbird	t'anderbird
+twit	tw'it
+twitter	tw'iter
+voice	bois   $text
+window	w'indow
+
+(e speak) 'isp'ik
+(i phone)	'aIfon
+(i pod)	'aIpod
 
 // Main  nouns Dictionary
+cataplum	$3
 
