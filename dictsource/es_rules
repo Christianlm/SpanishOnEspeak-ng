@@ -39,10 +39,14 @@
         c          k
      _) c (L01A    k         // allow: cl cr  at start of word
      _) ch         tS        // allow _ch
-
         c (Y       T         // ce, ci
         ch         tS
      A) ck         k
+
+.group ç
+	ç	s
+	A) ç (A	s
+	_) ç	s
 
 .group d
         d          d
