@@ -15,7 +15,7 @@ _ced	TeD'iJ^a
 _cir	Tirkumfl'exo
 _dia	dj'Eresis
 _dac	d'oble||aQ'uDo	
-_dot	p'unto  // ??
+_dot	p'unto
 _grv	gr'aBe
 _hac	kar'on
 _mcn	makr'on
@@ -64,8 +64,8 @@ _»	kom'iJ^as||dEr'EtSas
 #	almoaD'iJ^a  $max3
 *	astEr'isko  $max3
 .	punto  $max3
-
 ^	Tirkumfl'exo
+₠	'eU*o
 €	eUro
 %	porTj'Ento  $max3
 &	ampErs'ant
@@ -77,6 +77,23 @@ _»	kom'iJ^as||dEr'EtSas
 §	sEkTj'on
 ¬	n'ot
 ·	p'unto||m'edjo
+
+// Language names
+
+_cyr	Ti*'iliko_
+_hy	arm'enjo
+_he	eB@-*'Eo
+_ar	'a*aBe
+_hi	'i:ndi
+_bn	beNg,al'i_
+_ta	t'amil
+_te	tel'ugu
+_si	TiNgal'es
+_th	t'a:i
+_my	birm'ano
+_ko	ko*e/'ano
+_ja	x,apon'Es
+_zh	tS'ino
 
 // numbers
 _0	T'ero
