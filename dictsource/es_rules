@@ -68,17 +68,15 @@
 
 .group e
         e          e
-//          e (CK      E
-        e (nK      E
-        e (r       E
+        e (nC      E
+//         e (r       E
         e (Ch      e
-    Ar) e          E
-        ei         eI
-        ey (K      eI
-        ey (_      'eI
+//     Ar) e          E
+        ei         ei
+        ey (K      ei
+        ey (_      'ei
         eu         eU
         eu (_      'eU
-
 
 .group f
         f          f
@@ -271,7 +269,7 @@
 
 .group
         á          ''a
-        é          ''E
+        é          ''e
         í          ''i
         ó          ''o
         ú          ''u
