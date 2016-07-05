@@ -76,9 +76,9 @@ endphoneme
 phoneme oI
   vowel starttype #o endtype #i
   length 245
-  IF thisPh(isWordEnd) THEN
-    length 250
-    FMT(vwl_es/ooi3)
+  IF thisPh(isWordEnd) OR prevPh(r) THEN
+    length 260
+    FMT(vwl_es/ooi_)
   ENDIF
   FMT(vwl_es/ooi)
 endphoneme
